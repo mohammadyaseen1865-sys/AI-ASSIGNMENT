@@ -1,4 +1,3 @@
 # AI-ASSIGNMENT
 AI Assignment on PEAS Framework and Task Environment Analysis
-# FINAL YEAR PROJECT
-CAMPUS CONNECT
+"Initial project setup and traffic controller framework"
